@@ -1,0 +1,46 @@
+{"t":28.0,"h":50.0}
+{"t":22.5,"h":65.2}
+{"t":22.5,"h":65.2}
+[2025-10-05 18:49:08] Servidor CoAP escuchando en UDP 5683
+[2025-10-05 18:49:33] REQ type=CON code=0x02 mid=0xC36E path=/ plen=33
+[2025-10-05 18:49:33] BODY: {"dev":"esp32","t":22.8,"h":60.4}
+[2025-10-05 18:49:33] POST / -> OK
+[2025-10-05 18:49:41] REQ type=CON code=0x01 mid=0xE5E1 path=/sensor plen=0
+[2025-10-05 18:49:41] GET /sensor -> not found
+[2025-10-05 18:49:51] REQ type=CON code=0x03 mid=0x0285 path=/ plen=33
+[2025-10-05 18:49:51] BODY: {"dev":"esp32","t":23.5,"h":58.0}
+[2025-10-05 18:49:51] PUT / -> OK
+[2025-10-05 18:50:00] REQ type=CON code=0x01 mid=0x7558 path=/sensor plen=0
+[2025-10-05 18:50:00] GET /sensor -> not found
+[2025-10-05 18:50:11] REQ type=CON code=0x04 mid=0x1B72 path=/sensor plen=0
+[2025-10-05 18:50:11] DELETE /sensor -> not found
+[2025-10-05 18:50:21] REQ type=CON code=0x01 mid=0x70E5 path=/sensor plen=0
+[2025-10-05 18:50:21] GET /sensor -> not found
+[2025-10-05 21:42:30] Servidor CoAP escuchando en UDP 5683
+[2025-10-05 21:43:10] REQ type=CON code=0x02 mid=0xD91B path=/ plen=33
+[2025-10-05 21:43:10] BODY: {"dev":"esp32","t":22.8,"h":60.4}
+[2025-10-05 21:43:10] POST / -> OK
+[2025-10-05 21:43:19] REQ type=CON code=0x02 mid=0x88BE path=/ plen=33
+[2025-10-05 21:43:19] BODY: {"dev":"esp32","t":22.8,"h":60.4}
+[2025-10-05 21:43:19] POST / -> OK
+[2025-10-05 21:44:36] Servidor CoAP escuchando en UDP 5683
+[2025-10-05 21:50:11] REQ type=CON code=0x02 mid=0x7863 path=/ plen=33
+[2025-10-05 21:50:11] BODY: {"dev":"esp32","t":22.8,"h":60.4}
+[2025-10-05 21:50:11] POST / -> OK
+[2025-10-05 21:50:11] REQ type=CON code=0x01 mid=0xB03A path=/sensor plen=0
+[2025-10-05 21:50:11] GET /sensor -> not found
+[2025-10-05 22:02:53] Servidor CoAP escuchando en UDP 5683
+[2025-10-05 22:03:21] REQ type=CON code=0x02 mid=0xEC0B path=/ plen=33
+[2025-10-05 22:03:21] BODY: {"dev":"esp32","t":22.8,"h":60.4}
+[2025-10-05 22:03:21] POST / -> OK
+[2025-10-05 22:03:29] REQ type=CON code=0x01 mid=0x5CC2 path=/sensor plen=0
+[2025-10-05 22:03:29] GET /sensor -> not found
+[2025-10-05 22:03:37] REQ type=CON code=0x03 mid=0xB0EA path=/ plen=33
+[2025-10-05 22:03:37] BODY: {"dev":"esp32","t":23.5,"h":58.0}
+[2025-10-05 22:03:37] PUT / -> OK
+[2025-10-05 22:03:43] REQ type=CON code=0x01 mid=0x12E4 path=/sensor plen=0
+[2025-10-05 22:03:43] GET /sensor -> not found
+[2025-10-05 22:03:49] REQ type=CON code=0x01 mid=0xC5D1 path=/sensor plen=0
+[2025-10-05 22:03:49] GET /sensor -> not found
+[2025-10-05 22:03:59] REQ type=CON code=0x01 mid=0x0538 path=/sensor plen=0
+[2025-10-05 22:03:59] GET /sensor -> not found
